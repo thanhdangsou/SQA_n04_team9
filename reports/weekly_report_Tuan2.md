@@ -7,7 +7,7 @@ Các vấn đề nhóm gặp phải
 
 
 Dự định tuần tới làm gì
-Hoàn thành được mục 8 9 10
+Hoàn thành được mục 6 7 8
 
 Báo cáo của thành viên
 Vũ Văn Hiến
