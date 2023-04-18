@@ -29,10 +29,10 @@ Em sẽ hoàn thành Điều kiện chấp nhận
 
 
 Nguyễn Thị Phương Hậu
-Tuần trước làm phần Lịch trình công việc
+Tuần trước làm phần Phạm vi kiểm thử
 
 Khó khăn gặp phải
-Em chưa hiểu và triển khai được phần đó
+Chưa chọn được hình thức phù hợp
 
 Dự định tuần tới
 Em sẽ hoàn thành phần Phạm vi kiểm thử
