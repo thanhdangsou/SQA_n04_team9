@@ -15,7 +15,7 @@ Tuần trước làm phần : Defect Tracking (lỗi)
 
 Khó khăn gặp phải : Phải tìm hiểu các lỗi và check , tìm hiểu và xếp thành quy trình kiểm thử
 
-Dự định tuần tới :
+Dự định tuần tới : Xem lại và Hoàn thiện báo cáo.
 
 
 Nguyễn Ngọc Thanh
