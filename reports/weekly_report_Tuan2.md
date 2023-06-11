@@ -7,17 +7,15 @@ Các vấn đề nhóm gặp phải
 
 
 Dự định tuần tới làm gì
-Hoàn thành được mục 5 6 7
+Hoàn thành được mục 8 9 10
 
 Báo cáo của thành viên
 Vũ Văn Hiến
-Tuần trước làm phần Giới Thiệu
+Tuần trước làm phần : Chiến lược kiểm thử
 
-Khó khăn gặp phải
-Chưa có khó khăn
+Khó khăn gặp phải : Phải tìm hiểu nhiều loại kiểm thử rồi chọn ra một cái thích hợp với đề bài
 
-Dự định tuần tới
-Em sẽ hoàn thành phần Chiến lược kiểm thử
+Dự định tuần tới : Em sẽ hoàn thành phần Defect Tracking (lỗi)
 
 
 Nguyễn Ngọc Thanh
@@ -31,10 +29,10 @@ Em sẽ hoàn thành Điều kiện chấp nhận
 
 
 Nguyễn Thị Phương Hậu
-Tuần trước làm phần Lịch trình công việc
+Tuần trước làm phần Phạm vi kiểm thử
 
 Khó khăn gặp phải
-Em chưa hiểu và triển khai được phần đó
+Chưa chọn được hình thức phù hợp
 
 Dự định tuần tới
 Em sẽ hoàn thành phần Phạm vi kiểm thử
