@@ -1,0 +1,32 @@
+C:\Documents and Settings\Nguyen Anh Som\Desktop\QLyNuoc\DataProviders\bin\Debug\DataProviders.dll
+C:\Documents and Settings\Nguyen Anh Som\Desktop\QLyNuoc\DataProviders\bin\Debug\DataProviders.pdb
+C:\Documents and Settings\Nguyen Anh Som\Desktop\QLyNuoc\DataProviders\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Nguyen Anh Som\Desktop\QLyNuoc\DataProviders\obj\Debug\DataProviders.dll
+C:\Documents and Settings\Nguyen Anh Som\Desktop\QLyNuoc\DataProviders\obj\Debug\DataProviders.pdb
+E:\HOC TAP\Phan tich & Thiet ke HTTT\QLyNuoc\DataProviders\bin\Debug\DataProviders.dll
+E:\HOC TAP\Phan tich & Thiet ke HTTT\QLyNuoc\DataProviders\bin\Debug\DataProviders.pdb
+E:\HOC TAP\Phan tich & Thiet ke HTTT\QLyNuoc\DataProviders\obj\Debug\ResolveAssemblyReference.cache
+E:\HOC TAP\Phan tich & Thiet ke HTTT\QLyNuoc\DataProviders\obj\Debug\DataProviders.dll
+E:\HOC TAP\Phan tich & Thiet ke HTTT\QLyNuoc\DataProviders\obj\Debug\DataProviders.pdb
+E:\HOC TAP\Phan tich va Thiet ke HTTT\QLyNuoc\DataProviders\bin\Debug\DataProviders.dll
+E:\HOC TAP\Phan tich va Thiet ke HTTT\QLyNuoc\DataProviders\bin\Debug\DataProviders.pdb
+E:\HOC TAP\Phan tich va Thiet ke HTTT\QLyNuoc\DataProviders\obj\Debug\ResolveAssemblyReference.cache
+E:\HOC TAP\Phan tich va Thiet ke HTTT\QLyNuoc\DataProviders\obj\Debug\DataProviders.dll
+E:\HOC TAP\Phan tich va Thiet ke HTTT\QLyNuoc\DataProviders\obj\Debug\DataProviders.pdb
+C:\Documents and Settings\vietson\Desktop\QLyNuoc\DataProviders\bin\Debug\DataProviders.dll
+C:\Documents and Settings\vietson\Desktop\QLyNuoc\DataProviders\bin\Debug\DataProviders.pdb
+C:\Documents and Settings\vietson\Desktop\QLyNuoc\DataProviders\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\vietson\Desktop\QLyNuoc\DataProviders\obj\Debug\DataProviders.dll
+C:\Documents and Settings\vietson\Desktop\QLyNuoc\DataProviders\obj\Debug\DataProviders.pdb
+E:\[Sharecode.vn] Source code quan ly thu tien nuoc c# (1)\[Sharecode.vn] Source code quan ly thu tien nuoc c#\DataProviders\bin\Debug\DataProviders.dll
+E:\[Sharecode.vn] Source code quan ly thu tien nuoc c# (1)\[Sharecode.vn] Source code quan ly thu tien nuoc c#\DataProviders\bin\Debug\DataProviders.pdb
+E:\[Sharecode.vn] Source code quan ly thu tien nuoc c# (1)\[Sharecode.vn] Source code quan ly thu tien nuoc c#\DataProviders\obj\Debug\DataProviders.csproj.AssemblyReference.cache
+E:\[Sharecode.vn] Source code quan ly thu tien nuoc c# (1)\[Sharecode.vn] Source code quan ly thu tien nuoc c#\DataProviders\obj\Debug\DataProviders.csproj.CoreCompileInputs.cache
+E:\[Sharecode.vn] Source code quan ly thu tien nuoc c# (1)\[Sharecode.vn] Source code quan ly thu tien nuoc c#\DataProviders\obj\Debug\DataProviders.dll
+E:\[Sharecode.vn] Source code quan ly thu tien nuoc c# (1)\[Sharecode.vn] Source code quan ly thu tien nuoc c#\DataProviders\obj\Debug\DataProviders.pdb
+E:\quan ly thu tien nuoc c# (1)\quan ly thu tien nuoc c#\DataProviders\bin\Debug\DataProviders.dll
+E:\quan ly thu tien nuoc c# (1)\quan ly thu tien nuoc c#\DataProviders\bin\Debug\DataProviders.pdb
+E:\quan ly thu tien nuoc c# (1)\quan ly thu tien nuoc c#\DataProviders\obj\Debug\DataProviders.csproj.AssemblyReference.cache
+E:\quan ly thu tien nuoc c# (1)\quan ly thu tien nuoc c#\DataProviders\obj\Debug\DataProviders.csproj.CoreCompileInputs.cache
+E:\quan ly thu tien nuoc c# (1)\quan ly thu tien nuoc c#\DataProviders\obj\Debug\DataProviders.dll
+E:\quan ly thu tien nuoc c# (1)\quan ly thu tien nuoc c#\DataProviders\obj\Debug\DataProviders.pdb

@@ -1,0 +1,97 @@
+C:\Documents and Settings\Nguyen Anh Som\Desktop\QLyNuoc\MainForm\bin\Debug\MainForm.exe
+C:\Documents and Settings\Nguyen Anh Som\Desktop\QLyNuoc\MainForm\bin\Debug\MainForm.pdb
+C:\Documents and Settings\Nguyen Anh Som\Desktop\QLyNuoc\MainForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Nguyen Anh Som\Desktop\QLyNuoc\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+C:\Documents and Settings\Nguyen Anh Som\Desktop\QLyNuoc\MainForm\obj\Debug\MainForm.csproj.GenerateResource.Cache
+C:\Documents and Settings\Nguyen Anh Som\Desktop\QLyNuoc\MainForm\obj\Debug\MainForm.exe
+C:\Documents and Settings\Nguyen Anh Som\Desktop\QLyNuoc\MainForm\obj\Debug\MainForm.pdb
+C:\Documents and Settings\Nguyen Anh Som\Desktop\QLyNuoc\MainForm\bin\Debug\MainForm.exe.config
+C:\Documents and Settings\Nguyen Anh Som\Desktop\QLyNuoc\MainForm\bin\Debug\DataProviders.dll
+C:\Documents and Settings\Nguyen Anh Som\Desktop\QLyNuoc\MainForm\bin\Debug\DataProviders.pdb
+E:\HOC TAP\Phan tich & Thiet ke HTTT\QLyNuoc\MainForm\bin\Debug\MainForm.exe.config
+E:\HOC TAP\Phan tich & Thiet ke HTTT\QLyNuoc\MainForm\obj\Debug\MainForm.exe
+E:\HOC TAP\Phan tich & Thiet ke HTTT\QLyNuoc\MainForm\obj\Debug\MainForm.pdb
+E:\HOC TAP\Phan tich & Thiet ke HTTT\QLyNuoc\MainForm\bin\Debug\MainForm.exe
+E:\HOC TAP\Phan tich & Thiet ke HTTT\QLyNuoc\MainForm\bin\Debug\MainForm.pdb
+E:\HOC TAP\Phan tich & Thiet ke HTTT\QLyNuoc\MainForm\bin\Debug\DataProviders.dll
+E:\HOC TAP\Phan tich & Thiet ke HTTT\QLyNuoc\MainForm\bin\Debug\DataProviders.pdb
+E:\HOC TAP\Phan tich & Thiet ke HTTT\QLyNuoc\MainForm\obj\Debug\ResolveAssemblyReference.cache
+E:\HOC TAP\Phan tich & Thiet ke HTTT\QLyNuoc\MainForm\obj\Debug\MainForm.MainForm.resources
+E:\HOC TAP\Phan tich & Thiet ke HTTT\QLyNuoc\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+E:\HOC TAP\Phan tich & Thiet ke HTTT\QLyNuoc\MainForm\obj\Debug\MainForm.csproj.GenerateResource.Cache
+E:\HOC TAP\Phan tich & Thiet ke HTTT\QLyNuoc\MainForm\obj\Debug\MainForm.QLykhachhang.resources
+E:\HOC TAP\Phan tich & Thiet ke HTTT\QLyNuoc\MainForm\obj\Debug\MainForm.QLyNhanVien.resources
+E:\HOC TAP\Phan tich & Thiet ke HTTT\QLyNuoc\MainForm\obj\Debug\MainForm.QLyThietBi.resources
+E:\HOC TAP\Phan tich & Thiet ke HTTT\QLyNuoc\MainForm\obj\Debug\MainForm.QLyHopDong.resources
+E:\HOC TAP\Phan tich va Thiet ke HTTT\QLyNuoc\MainForm\bin\Debug\MainForm.exe.config
+E:\HOC TAP\Phan tich va Thiet ke HTTT\QLyNuoc\MainForm\obj\Debug\MainForm.exe
+E:\HOC TAP\Phan tich va Thiet ke HTTT\QLyNuoc\MainForm\obj\Debug\MainForm.pdb
+E:\HOC TAP\Phan tich va Thiet ke HTTT\QLyNuoc\MainForm\bin\Debug\MainForm.exe
+E:\HOC TAP\Phan tich va Thiet ke HTTT\QLyNuoc\MainForm\bin\Debug\MainForm.pdb
+E:\HOC TAP\Phan tich va Thiet ke HTTT\QLyNuoc\MainForm\bin\Debug\DataProviders.dll
+E:\HOC TAP\Phan tich va Thiet ke HTTT\QLyNuoc\MainForm\bin\Debug\DataProviders.pdb
+E:\HOC TAP\Phan tich va Thiet ke HTTT\QLyNuoc\MainForm\obj\Debug\ResolveAssemblyReference.cache
+E:\HOC TAP\Phan tich va Thiet ke HTTT\QLyNuoc\MainForm\obj\Debug\MainForm.MainForm.resources
+E:\HOC TAP\Phan tich va Thiet ke HTTT\QLyNuoc\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+E:\HOC TAP\Phan tich va Thiet ke HTTT\QLyNuoc\MainForm\obj\Debug\MainForm.QLyHopDong.resources
+E:\HOC TAP\Phan tich va Thiet ke HTTT\QLyNuoc\MainForm\obj\Debug\MainForm.QLykhachhang.resources
+E:\HOC TAP\Phan tich va Thiet ke HTTT\QLyNuoc\MainForm\obj\Debug\MainForm.QLyNhanVien.resources
+E:\HOC TAP\Phan tich va Thiet ke HTTT\QLyNuoc\MainForm\obj\Debug\MainForm.QLyThietBi.resources
+E:\HOC TAP\Phan tich va Thiet ke HTTT\QLyNuoc\MainForm\obj\Debug\MainForm.csproj.GenerateResource.Cache
+E:\HOC TAP\Phan tich va Thiet ke HTTT\QLyNuoc\MainForm\bin\Debug\Data\QLyNuoc.mdf
+E:\HOC TAP\Phan tich va Thiet ke HTTT\QLyNuoc\MainForm\bin\Debug\Data\QLyNuoc_log.ldf
+C:\Documents and Settings\vietson\Desktop\QLyNuoc\MainForm\bin\Debug\MainForm.exe.config
+C:\Documents and Settings\vietson\Desktop\QLyNuoc\MainForm\obj\Debug\MainForm.exe
+C:\Documents and Settings\vietson\Desktop\QLyNuoc\MainForm\obj\Debug\MainForm.pdb
+C:\Documents and Settings\vietson\Desktop\QLyNuoc\MainForm\bin\Debug\Data\QLyNuoc.mdf
+C:\Documents and Settings\vietson\Desktop\QLyNuoc\MainForm\bin\Debug\Data\QLyNuoc_log.ldf
+C:\Documents and Settings\vietson\Desktop\QLyNuoc\MainForm\bin\Debug\MainForm.exe
+C:\Documents and Settings\vietson\Desktop\QLyNuoc\MainForm\bin\Debug\MainForm.pdb
+C:\Documents and Settings\vietson\Desktop\QLyNuoc\MainForm\bin\Debug\DataProviders.dll
+C:\Documents and Settings\vietson\Desktop\QLyNuoc\MainForm\bin\Debug\DataProviders.pdb
+C:\Documents and Settings\vietson\Desktop\QLyNuoc\MainForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\vietson\Desktop\QLyNuoc\MainForm\obj\Debug\MainForm.MainForm.resources
+C:\Documents and Settings\vietson\Desktop\QLyNuoc\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+C:\Documents and Settings\vietson\Desktop\QLyNuoc\MainForm\obj\Debug\MainForm.QLyHopDong.resources
+C:\Documents and Settings\vietson\Desktop\QLyNuoc\MainForm\obj\Debug\MainForm.QLykhachhang.resources
+C:\Documents and Settings\vietson\Desktop\QLyNuoc\MainForm\obj\Debug\MainForm.QLyNhanVien.resources
+C:\Documents and Settings\vietson\Desktop\QLyNuoc\MainForm\obj\Debug\MainForm.QLyThietBi.resources
+C:\Documents and Settings\vietson\Desktop\QLyNuoc\MainForm\obj\Debug\MainForm.csproj.GenerateResource.Cache
+E:\[Sharecode.vn] Source code quan ly thu tien nuoc c# (1)\[Sharecode.vn] Source code quan ly thu tien nuoc c#\MainForm\bin\Debug\Data\QLyNuoc.mdf
+E:\[Sharecode.vn] Source code quan ly thu tien nuoc c# (1)\[Sharecode.vn] Source code quan ly thu tien nuoc c#\MainForm\bin\Debug\Data\QLyNuoc_log.ldf
+E:\[Sharecode.vn] Source code quan ly thu tien nuoc c# (1)\[Sharecode.vn] Source code quan ly thu tien nuoc c#\MainForm\bin\Debug\MainForm.exe.config
+E:\[Sharecode.vn] Source code quan ly thu tien nuoc c# (1)\[Sharecode.vn] Source code quan ly thu tien nuoc c#\MainForm\bin\Debug\MainForm.exe
+E:\[Sharecode.vn] Source code quan ly thu tien nuoc c# (1)\[Sharecode.vn] Source code quan ly thu tien nuoc c#\MainForm\bin\Debug\MainForm.pdb
+E:\[Sharecode.vn] Source code quan ly thu tien nuoc c# (1)\[Sharecode.vn] Source code quan ly thu tien nuoc c#\MainForm\bin\Debug\DataProviders.dll
+E:\[Sharecode.vn] Source code quan ly thu tien nuoc c# (1)\[Sharecode.vn] Source code quan ly thu tien nuoc c#\MainForm\bin\Debug\DataProviders.pdb
+E:\[Sharecode.vn] Source code quan ly thu tien nuoc c# (1)\[Sharecode.vn] Source code quan ly thu tien nuoc c#\MainForm\obj\Debug\MainForm.csproj.AssemblyReference.cache
+E:\[Sharecode.vn] Source code quan ly thu tien nuoc c# (1)\[Sharecode.vn] Source code quan ly thu tien nuoc c#\MainForm\obj\Debug\MainForm.MainForm.resources
+E:\[Sharecode.vn] Source code quan ly thu tien nuoc c# (1)\[Sharecode.vn] Source code quan ly thu tien nuoc c#\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+E:\[Sharecode.vn] Source code quan ly thu tien nuoc c# (1)\[Sharecode.vn] Source code quan ly thu tien nuoc c#\MainForm\obj\Debug\MainForm.QLyHopDong.resources
+E:\[Sharecode.vn] Source code quan ly thu tien nuoc c# (1)\[Sharecode.vn] Source code quan ly thu tien nuoc c#\MainForm\obj\Debug\MainForm.QLykhachhang.resources
+E:\[Sharecode.vn] Source code quan ly thu tien nuoc c# (1)\[Sharecode.vn] Source code quan ly thu tien nuoc c#\MainForm\obj\Debug\MainForm.QLyNhanVien.resources
+E:\[Sharecode.vn] Source code quan ly thu tien nuoc c# (1)\[Sharecode.vn] Source code quan ly thu tien nuoc c#\MainForm\obj\Debug\MainForm.QLyThietBi.resources
+E:\[Sharecode.vn] Source code quan ly thu tien nuoc c# (1)\[Sharecode.vn] Source code quan ly thu tien nuoc c#\MainForm\obj\Debug\MainForm.csproj.GenerateResource.cache
+E:\[Sharecode.vn] Source code quan ly thu tien nuoc c# (1)\[Sharecode.vn] Source code quan ly thu tien nuoc c#\MainForm\obj\Debug\MainForm.csproj.CoreCompileInputs.cache
+E:\[Sharecode.vn] Source code quan ly thu tien nuoc c# (1)\[Sharecode.vn] Source code quan ly thu tien nuoc c#\MainForm\obj\Debug\MainForm.csproj.CopyComplete
+E:\[Sharecode.vn] Source code quan ly thu tien nuoc c# (1)\[Sharecode.vn] Source code quan ly thu tien nuoc c#\MainForm\obj\Debug\MainForm.exe
+E:\[Sharecode.vn] Source code quan ly thu tien nuoc c# (1)\[Sharecode.vn] Source code quan ly thu tien nuoc c#\MainForm\obj\Debug\MainForm.pdb
+E:\quan ly thu tien nuoc c# (1)\quan ly thu tien nuoc c#\MainForm\bin\Debug\Data\QLyNuoc.mdf
+E:\quan ly thu tien nuoc c# (1)\quan ly thu tien nuoc c#\MainForm\bin\Debug\Data\QLyNuoc_log.ldf
+E:\quan ly thu tien nuoc c# (1)\quan ly thu tien nuoc c#\MainForm\bin\Debug\MainForm.exe.config
+E:\quan ly thu tien nuoc c# (1)\quan ly thu tien nuoc c#\MainForm\bin\Debug\MainForm.exe
+E:\quan ly thu tien nuoc c# (1)\quan ly thu tien nuoc c#\MainForm\bin\Debug\MainForm.pdb
+E:\quan ly thu tien nuoc c# (1)\quan ly thu tien nuoc c#\MainForm\bin\Debug\DataProviders.dll
+E:\quan ly thu tien nuoc c# (1)\quan ly thu tien nuoc c#\MainForm\bin\Debug\DataProviders.pdb
+E:\quan ly thu tien nuoc c# (1)\quan ly thu tien nuoc c#\MainForm\obj\Debug\MainForm.csproj.AssemblyReference.cache
+E:\quan ly thu tien nuoc c# (1)\quan ly thu tien nuoc c#\MainForm\obj\Debug\MainForm.MainForm.resources
+E:\quan ly thu tien nuoc c# (1)\quan ly thu tien nuoc c#\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+E:\quan ly thu tien nuoc c# (1)\quan ly thu tien nuoc c#\MainForm\obj\Debug\MainForm.QLyHopDong.resources
+E:\quan ly thu tien nuoc c# (1)\quan ly thu tien nuoc c#\MainForm\obj\Debug\MainForm.QLykhachhang.resources
+E:\quan ly thu tien nuoc c# (1)\quan ly thu tien nuoc c#\MainForm\obj\Debug\MainForm.QLyNhanVien.resources
+E:\quan ly thu tien nuoc c# (1)\quan ly thu tien nuoc c#\MainForm\obj\Debug\MainForm.QLyThietBi.resources
+E:\quan ly thu tien nuoc c# (1)\quan ly thu tien nuoc c#\MainForm\obj\Debug\MainForm.csproj.GenerateResource.cache
+E:\quan ly thu tien nuoc c# (1)\quan ly thu tien nuoc c#\MainForm\obj\Debug\MainForm.csproj.CoreCompileInputs.cache
+E:\quan ly thu tien nuoc c# (1)\quan ly thu tien nuoc c#\MainForm\obj\Debug\MainForm.csproj.CopyComplete
+E:\quan ly thu tien nuoc c# (1)\quan ly thu tien nuoc c#\MainForm\obj\Debug\MainForm.exe
+E:\quan ly thu tien nuoc c# (1)\quan ly thu tien nuoc c#\MainForm\obj\Debug\MainForm.pdb
